@@ -1337,6 +1337,7 @@ var cnames_active = {
   "gitdown": "gc.github.io/gitdown",
   "githubtouch": "github-touch.github.io",
   "gitinit": "silly-shirley-8e44e3.netlify.app",
+  "gitlookup": "gitlookup.pages.dev",
   "gitme": "gitme.netlify.app",
   "gitmoji": "jeff-tian.github.io/gitmoji",
   "gitnifty": "teneplaysofficial.github.io/gitnifty",
